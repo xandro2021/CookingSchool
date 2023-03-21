@@ -42,6 +42,9 @@
     &__contenido {
         padding: 2rem;
     }
+    &__nombre {
+        min-height: 5.5rem;
+    }
     &__descripcion {
         color: v.$primario;
     }
